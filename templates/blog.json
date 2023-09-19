@@ -1,1 +1,58 @@
-{"sections":{"main":{"type":"main-blog","blocks":{"04e99e32-77dd-4478-9012-a7bc3d1b1d11":{"type":"links","settings":{"menu":"meet-our-experts"}},"dce2084d-3da6-4cb6-9145-1a932b0ca374":{"type":"links","settings":{"menu":"news"}}},"block_order":["04e99e32-77dd-4478-9012-a7bc3d1b1d11","dce2084d-3da6-4cb6-9145-1a932b0ca374"],"settings":{"articles_per_page":16,"highlight_first_article":true,"show_tags":false,"show_category":false,"show_author":true,"show_date":true,"show_excerpt":true}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "blocks": {
+        "04e99e32-77dd-4478-9012-a7bc3d1b1d11": {
+          "type": "links",
+          "settings": {
+            "menu": "meet-our-experts"
+          }
+        },
+        "dce2084d-3da6-4cb6-9145-1a932b0ca374": {
+          "type": "links",
+          "settings": {
+            "menu": "news"
+          }
+        }
+      },
+      "block_order": [
+        "04e99e32-77dd-4478-9012-a7bc3d1b1d11",
+        "dce2084d-3da6-4cb6-9145-1a932b0ca374"
+      ],
+      "settings": {
+        "articles_per_page": 16,
+        "highlight_first_article": true,
+        "show_tags": false,
+        "show_category": false,
+        "show_author": true,
+        "show_date": true,
+        "show_excerpt": true
+      }
+    },
+    "1695138898d7aac31b": {
+      "type": "apps",
+      "blocks": {
+        "63ab4c95-54a2-456f-a222-cfd883ce674f": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "103522",
+            "product_id_enabled": true,
+            "collection_id_enabled": true
+          }
+        }
+      },
+      "block_order": [
+        "63ab4c95-54a2-456f-a222-cfd883ce674f"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1695138898d7aac31b"
+  ]
+}
