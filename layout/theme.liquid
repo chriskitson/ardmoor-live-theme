@@ -318,7 +318,9 @@
     </ul>
     
 
-    
+{% if blog.url contains '/blogs' %}
+	<div data-rebuy-id="107502"></div>
+{% endif %}
  <!--begin-boost-pfs-js-->
    {% unless template contains "index" %}{% render 'boost-pfs' %}{% endunless %}
  <!--end-boost-pfs-js-->
