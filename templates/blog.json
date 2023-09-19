@@ -44,7 +44,7 @@
           "settings": {
             "enabled": true,
             "id": "107502",
-            "product_id_enabled": true,
+            "product_id_enabled": false,
             "collection_id_enabled": false
           }
         }
